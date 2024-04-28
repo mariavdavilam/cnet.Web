@@ -1,0 +1,101 @@
+header {
+    background-color: hwb(0 0% 100%);
+    width: auto;
+    height: 250px;
+    display: flex;
+    flex-direction: row;
+}
+
+#blank-sec {
+    width: 100px;
+    height: 250px;
+    border: 1px solid red;
+}
+
+#logo-slogan {
+    width: 80px;
+    height: auto;
+    border: 1px solid red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+h3 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 600;
+    font-stretch: 48%;
+    text-transform: uppercase;
+    color: #e71d1d;
+    text-align: right;
+
+}
+
+#blank-sec2 {
+    width: 700px;
+    height: 250px;
+    border: 1px solid red;
+}
+
+#search {
+    width: 50px;
+    height: 155px;
+    border: 1px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#join-Login {
+    width: 100px;
+    height: 155px;
+    border: 1px solid red;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+#button {
+    border-radius: 30px;
+    background-color: #b4fd8c;
+    border: .125rem solid #b4fd8c;
+    fill: #121218;
+    font-weight: 500;
+    font-size: 14px;
+    height: 30px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#blank-sec3{
+    width: 100px;
+    height: 250px;
+    border: 1px solid red;  
+}
+
+#header-menu{
+width: auto;
+height: 100px;
+border: 1px solid red;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+}
+
+#blank-space1{
+background-color: black;
+height: 100px;
+width: 100px;
+}
+
+li, ul{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+margin: 50px;   
+background-color: black;
+color: white; 
+}
