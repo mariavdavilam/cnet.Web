@@ -21,7 +21,7 @@ header {
 
 
 h3 {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: stardust,serif;
     font-weight: 600;
     font-stretch: 48%;
     text-transform: uppercase;
@@ -110,12 +110,13 @@ height: auto;
 
 .left-aside{
 width: 180px;
-height: 500px;
+height: 600px;
 background-color: #fcf95a;   
 margin-right: 20px;
 border-top-right-radius: 30px;
 padding-left: 15px;
 padding-right: 10px;
+border-bottom-right-radius: 30px;
 }
 
 .right-aside{
@@ -126,6 +127,7 @@ border-top-right-radius: 30px;
 padding-left: 20px;
 padding-right: 10px;
 margin-left: 2px;
+padding-top: 45px;
 
 }
 
@@ -169,6 +171,7 @@ margin-left: 90px;
 }
 
 #img{
-    margin-top: -35px;
-    margin-right: 3px;
+    margin-top: -83px;
+    margin-right: 5px;
 }
+
